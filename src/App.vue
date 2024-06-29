@@ -29,6 +29,10 @@
           </li>
           <li class="divider"></li> <!-- 메뉴 사이에 수직선 -->
           <li class="li-border">
+            <router-link to="/Recruitment" class="nav-link">採用情報</router-link>
+          </li>          
+          <li class="divider"></li> <!-- 메뉴 사이에 수직선 -->
+          <li class="li-border">
             <router-link to="/contact" class="nav-link">お問い合わせ</router-link>
           </li>
         </ul>
